@@ -1,0 +1,102 @@
+
+body {
+    background-color: #0895e7;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    text-align: center;
+    color: #c70808;
+    font-weight: normal;
+}
+
+a:link {
+    color: #0b021f;
+    font-size: large;
+}
+
+a:visited {
+    color: #2d0de0;
+}
+
+
+.title {
+    color: rgb(10, 10, 10);
+}
+
+.h2 {
+    color: rgb(55, 109, 4);
+    font-weight: 100;
+}
+
+.p {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.i {
+    padding: 20px;
+    background-color: #e0e0e0;
+    margin-bottom: 20px;
+}
+
+p {
+    border: 2px dashed rgb(26, 25, 24);
+    font-size: 20px;
+    font-weight: lighter;
+    padding: 15px;
+}
+
+button[type="submit"] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    margin-bottom: 5px;
+}
+
+ol {
+    color: rgb(207, 240, 17);
+    font-size: 20px;
+}
+
+.red {
+    background-color: rgb(138, 2, 2);
+}
+
+.contact {
+    text-align: center;
+}
+
+img {
+    img {
+    img {
+        height: 100%;
+        width: 100%;
+        max-width: 100%; 
+        display: block; 
+        margin: auto; 
+        margin-bottom: 20px; 
+    }
+}
+}
+
+.email {
+    margin: 26px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.rounded {
+    border-radius: 15px;
+}
+
+
+.contact-section {
+    background-color: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;}
